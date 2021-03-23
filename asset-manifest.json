@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/code-challenges/septa-fare-calculator/static/css/main.a22e49c0.chunk.css",
+    "main.js": "/code-challenges/septa-fare-calculator/static/js/main.167679cd.chunk.js",
+    "main.js.map": "/code-challenges/septa-fare-calculator/static/js/main.167679cd.chunk.js.map",
+    "runtime-main.js": "/code-challenges/septa-fare-calculator/static/js/runtime-main.ab562c87.js",
+    "runtime-main.js.map": "/code-challenges/septa-fare-calculator/static/js/runtime-main.ab562c87.js.map",
+    "static/js/2.34f64bf1.chunk.js": "/code-challenges/septa-fare-calculator/static/js/2.34f64bf1.chunk.js",
+    "static/js/2.34f64bf1.chunk.js.map": "/code-challenges/septa-fare-calculator/static/js/2.34f64bf1.chunk.js.map",
+    "index.html": "/code-challenges/septa-fare-calculator/index.html",
+    "static/css/main.a22e49c0.chunk.css.map": "/code-challenges/septa-fare-calculator/static/css/main.a22e49c0.chunk.css.map",
+    "static/js/2.34f64bf1.chunk.js.LICENSE.txt": "/code-challenges/septa-fare-calculator/static/js/2.34f64bf1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab562c87.js",
+    "static/js/2.34f64bf1.chunk.js",
+    "static/css/main.a22e49c0.chunk.css",
+    "static/js/main.167679cd.chunk.js"
+  ]
+}
